@@ -1,0 +1,27 @@
+{
+  "name": "LIRI-JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julesanne493/LIRI-JS.git"
+  },
+  "keywords": [],
+  "author": "Julia Snyder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julesanne493/LIRI-JS/issues"
+  },
+  "homepage": "https://github.com/julesanne493/LIRI-JS#readme"
+}
